@@ -21,7 +21,7 @@ The skill passed its recorded project checks. Historical replay evidence does no
 
 The five public review notes are transformed copies of local review documents. Their unmodified sources remain local. Redaction covered local paths, host identifiers, network addresses, contact details and full conversation UUIDs. A heuristic post-redaction scan found no credential-shaped values, email addresses, phone numbers, local profile IDs or machine names in those five files. This scan is not a semantic review of every phrase or a guarantee against all sensitive content.
 
-The project skill source and templates are published. Other project chat records, attachments, incoming exports, and the complete account ZIP are not included. The full ChatGPT account export remains local. No scientific computation was rerun for this archive.
+The project skill source and templates are published. Additional project review material and attachments remain local pending privacy and rights review; incoming exports and the complete account ZIP are not included. The full ChatGPT account export remains local. No scientific computation was rerun for this archive.
 
 ## License
 
@@ -48,7 +48,7 @@ Original code is MIT licensed where rights are established. Original documentati
 
 五份公开审阅笔记是本地审阅文档的脱敏副本，未修改来源留在本地。脱敏包含本机路径、主机标识、网络地址、联系方式和完整会话 UUID。脱敏后启发式扫描未发现凭据形态、邮箱、手机号、本机用户目录 ID 或主机名；该扫描不能代替逐句语义审核，也不能保证识别所有敏感信息。
 
-其他项目聊天、附件、待审导出资料和完整账户 ZIP 没有包含在此仓库。完整 ChatGPT 账户导出按要求留在本地。本次归档没有重新运行科学计算。
+更多项目审阅材料和附件因隐私及权利审查仍保留在本地；待审导出资料和完整账户 ZIP 不包含在此仓库。完整 ChatGPT 账户导出按要求留在本地。本次归档没有重新运行科学计算。
 
 权利明确的原创代码采用 MIT；原创文档和数据采用 CC BY 4.0。第三方材料和模型权重保留其许可；许可不明的资料继续留在本地待审。详见 `LICENSE-DATA.md`。
 
@@ -59,3 +59,4 @@ Selected redacted project transcripts and the reusable binder-design literature-
 ### 对话记录
 
 [`cases/conversations`](cases/conversations/README.md) 收录部分脱敏科研对话和通用结合剂设计文献筛选记录。此处不包含完整账户导出，并明确标注来源及附件覆盖范围。
+
