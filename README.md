@@ -51,3 +51,11 @@ Original code is MIT licensed where rights are established. Original documentati
 其他项目聊天、附件、待审导出资料和完整账户 ZIP 没有包含在此仓库。完整 ChatGPT 账户导出按要求留在本地。本次归档没有重新运行科学计算。
 
 权利明确的原创代码采用 MIT；原创文档和数据采用 CC BY 4.0。第三方材料和模型权重保留其许可；许可不明的资料继续留在本地待审。详见 `LICENSE-DATA.md`。
+
+## Conversation records
+
+Selected redacted project transcripts and the reusable binder-design literature-review record are listed under [`cases/conversations`](cases/conversations/README.md). This collection excludes the user's full account export and marks source/attachment coverage limits.
+
+### 对话记录
+
+[`cases/conversations`](cases/conversations/README.md) 收录部分脱敏科研对话和通用结合剂设计文献筛选记录。此处不包含完整账户导出，并明确标注来源及附件覆盖范围。

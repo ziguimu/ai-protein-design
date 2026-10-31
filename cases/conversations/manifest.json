@@ -1,0 +1,27 @@
+{
+  "project": "ai-protein-design",
+  "records": [
+    {
+      "record_id": "6ae1b865",
+      "title": "Weekly literature review task for protein binder design",
+      "source_relative_path": "2026-10-31_ChatGPT导出补充审阅/6ae1b865_设置论文筛选任务.md",
+      "public_path": "cases/conversations/2026-10-28_binder_design_weekly_literature_review_6ae1b865.md",
+      "source_bytes": 19815,
+      "public_bytes": 18461,
+      "source_sha256": "239e97a4176e1004dfe0ab9d52d20409a8c7b4f3280c3c445f711308599c7647",
+      "public_sha256": "2255186de081906e1f13bfaa558adee143e8e04f72b55454f050dc8b54270c86",
+      "redactions_applied": {
+        "LOCAL_PATH": 1,
+        "uuid": 44
+      },
+      "message_counts": {
+        "user_visible": 7,
+        "assistant_visible": 34
+      },
+      "branch_points": 1,
+      "coverage": "full visible-node semantic review; one branch point; underlying tool events were not in this export",
+      "attachments": "No attachment files were copied into this transcript package; source-export attachment coverage remains as recorded in the local archive."
+    }
+  ],
+  "redaction_policy": "Message order retained; personal/local identifiers redacted; transcript completeness follows source export coverage."
+}
