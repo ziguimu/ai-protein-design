@@ -1,31 +1,53 @@
 # ai-protein-design
 
-A versioned workflow and evidence-bounded case archive for AI protein design.
+A reusable, evidence-bounded workflow for computational protein-design tasks, with templates, audit utilities and selected case-review records.
 
 [中文说明](#中文说明)
 
 ## Scope and evidence
 
-The skill has passed its recorded project checks. Historical replay evidence does not establish universal or causal improvement. Case-archive completeness and attachment coverage have documented limits.
+This repository publishes the reviewed skill source, templates, a source/install hash audit, an audit utility, and five selected redacted case-review notes. The case notes cover EGFR/TNF benchmark interpretation, TfR1 run-state evidence and correction history, and WSL artifact preservation. They are review notes, not complete chat transcripts.
 
-## Provenance and status
+The skill passed its recorded project checks. Historical replay evidence does not establish universal or causal improvement. The available archive does not establish full account, branch, or attachment coverage. See the case manifest and individual coverage statements.
 
-This repository is being prepared from existing local work. File-level provenance, source hashes, release manifests, and restoration checks will accompany the archived materials. The current README does not claim that the full archive has already been published or verified.
+## Contents
 
-## Projects
+- `ai-protein-design/`: skill source and workflow references.
+- `templates/`: reusable task and run templates.
+- `cases/review-notes/`: selected privacy-redacted case-review records and source/public SHA-256 manifest.
+- `SOURCE_INSTALL_HASH_AUDIT.json`: audit of published source files against the installed copy.
 
-- Project overview and source manifest are being prepared.
+## Provenance and limits
 
-## Licenses
+The five public review notes are transformed copies of local review documents. Their unmodified sources remain local. Redaction covered local paths, host identifiers, network addresses, contact details and full conversation UUIDs. A heuristic post-redaction scan found no credential-shaped values, email addresses, phone numbers, local profile IDs or machine names in those five files. This scan is not a semantic review of every phrase or a guarantee against all sensitive content.
 
-Original code: MIT, where rights are established. Original documentation and data: CC BY 4.0, where rights are established. Third-party software, model weights, papers, and datasets retain their original licenses; see the item-level provenance records.
+The project skill source and templates are published. Other project chat records, attachments, incoming exports, and the complete account ZIP are not included. The full ChatGPT account export remains local. No scientific computation was rerun for this archive.
+
+## License
+
+Original code is MIT licensed where rights are established. Original documentation and data are CC BY 4.0 where rights are established. Third-party materials and model weights retain their own terms; uncertain items remain local until reviewed. See `LICENSE-DATA.md`.
 
 ## 中文说明
 
-AI 蛋白质设计的版本化工作流与有证据边界的案例归档。
+本仓库发布已审阅的蛋白质设计技能源码、模板、审计工具及精选脱敏案例记录。
 
-技能通过其记录中的项目检查。历史回放不能证明普遍或因果改进；案例档案完整性和附件覆盖存在明确边界。
+### 范围与证据
 
-当前正在从本地项目整理本仓库。文件来源、哈希、Release 清单和恢复校验将随归档资料提供；本 README 不表示完整归档已发布或验证。
+目前公开技能源码、模板、源码与正式安装副本的哈希核对记录、审计工具，以及五份脱敏案例审阅笔记。案例涉及 EGFR/TNF 基准解释、TfR1 运行状态证据与结论更正，以及 WSL 产物保全。案例笔记不是完整聊天记录。
 
-原创代码在权利明确时采用 MIT 许可；原创文档和数据在权利明确时采用 CC BY 4.0。第三方软件、权重、论文和数据沿用原许可，详见逐项来源记录。
+技能通过了其已记录的项目检查。历史回放不能证明普遍或因果改进。现有资料也不能证明覆盖了完整账号、所有分支或全部附件。各案例的具体覆盖范围以正文和 manifest 为准。
+
+### 目录
+
+- `ai-protein-design/`：技能源码与工作流参考。
+- `templates/`：可复用任务与运行模板。
+- `cases/review-notes/`：精选脱敏案例记录和来源/公开文件 SHA-256 清单。
+- `SOURCE_INSTALL_HASH_AUDIT.json`：公开源码与正式安装副本的核对记录。
+
+### 来源与限制
+
+五份公开审阅笔记是本地审阅文档的脱敏副本，未修改来源留在本地。脱敏包含本机路径、主机标识、网络地址、联系方式和完整会话 UUID。脱敏后启发式扫描未发现凭据形态、邮箱、手机号、本机用户目录 ID 或主机名；该扫描不能代替逐句语义审核，也不能保证识别所有敏感信息。
+
+其他项目聊天、附件、待审导出资料和完整账户 ZIP 没有包含在此仓库。完整 ChatGPT 账户导出按要求留在本地。本次归档没有重新运行科学计算。
+
+权利明确的原创代码采用 MIT；原创文档和数据采用 CC BY 4.0。第三方材料和模型权重保留其许可；许可不明的资料继续留在本地待审。详见 `LICENSE-DATA.md`。

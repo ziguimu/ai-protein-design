@@ -1,0 +1,61 @@
+{
+  "generated_date": "2026-10-31",
+  "files": [
+    {
+      "public_path": "cases/review-notes/EXP-001_EGFR_TNF基准汇报与报告边界.md",
+      "source_file_name": "EXP-001_EGFR_TNF基准汇报与报告边界.md",
+      "source_sha256": "f7dfaa929877bdf2d8a0aca8c4dc7335a87d6a173534579ed51d87dc4eaf586a",
+      "public_sha256": "e065692ba2c97ef3ea347fa2b2056ed74492966e62d03c339ff26ef9d801c1ba",
+      "source_bytes": 13804,
+      "public_bytes": 14467,
+      "redactions_applied": 7,
+      "source_coverage": "Review note; not a full chat transcript",
+      "post_redaction_scan": "PASS"
+    },
+    {
+      "public_path": "cases/review-notes/EXP-002_TfR1自动跟进状态与执行证据.md",
+      "source_file_name": "EXP-002_TfR1自动跟进状态与执行证据.md",
+      "source_sha256": "4c2c04f5363626acca22337603d53d6756c63c7120a336fd91dd222051325870",
+      "public_sha256": "86462c58c4e80a2e97c67247ea2417688771aad2c705c71456062410f80991d7",
+      "source_bytes": 3531,
+      "public_bytes": 4349,
+      "redactions_applied": 2,
+      "source_coverage": "Review note; not a full chat transcript",
+      "post_redaction_scan": "PASS"
+    },
+    {
+      "public_path": "cases/review-notes/EXP-003_WSL科学计算环境清理与产物保全.md",
+      "source_file_name": "EXP-003_WSL科学计算环境清理与产物保全.md",
+      "source_sha256": "94bcccb76bebe61d7066d40d10914f871e0854c1adeaeecb8deeac00c63ab4c4",
+      "public_sha256": "672a60783231c8858efd676bdbeedd41d2026bab2ef6572a954ade173e86ddad",
+      "source_bytes": 4908,
+      "public_bytes": 5621,
+      "redactions_applied": 5,
+      "source_coverage": "Review note; not a full chat transcript",
+      "post_redaction_scan": "PASS"
+    },
+    {
+      "public_path": "cases/review-notes/CODEX_TfR1_design_execution_review.md",
+      "source_file_name": "CODEX_TfR1_design_execution_review.md",
+      "source_sha256": "03a92f09dfeec4fc259b25572ece4df3a08f9dd6f2e1229a82ea1bd7ba2290a6",
+      "public_sha256": "01b26891c783d63fee363da201d065559fcc51981baeba614870cc3ff99bf7f3",
+      "source_bytes": 49469,
+      "public_bytes": 50327,
+      "redactions_applied": 4,
+      "source_coverage": "Review note; not a full chat transcript",
+      "post_redaction_scan": "PASS"
+    },
+    {
+      "public_path": "cases/review-notes/CODEX_TfR1_final_round3_raw_audit.md",
+      "source_file_name": "CODEX_TfR1_final_round3_raw_audit.md",
+      "source_sha256": "79c6bdf6f2d7d9d41da8f472497a58bdd3ac35332eb42975ef582bec9b3b7fe3",
+      "public_sha256": "61e5ca81d8ba5756843b6614393c72926aa2e3aa2f374f02fbe263c30bf6513e",
+      "source_bytes": 5401,
+      "public_bytes": 6244,
+      "redactions_applied": 1,
+      "source_coverage": "Review note; not a full chat transcript",
+      "post_redaction_scan": "PASS"
+    }
+  ],
+  "limitations": "Selected review notes only; not a full account/project conversation archive."
+}
