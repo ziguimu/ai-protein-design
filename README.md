@@ -60,3 +60,12 @@ Selected redacted project transcripts and the reusable binder-design literature-
 
 [`cases/conversations`](cases/conversations/README.md) 收录部分脱敏科研对话和通用结合剂设计文献筛选记录。此处不包含完整账户导出，并明确标注来源及附件覆盖范围。
 
+
+## Validation record
+
+[VALIDATION.md](VALIDATION.md) summarizes the bounded skill checks, replay scope, hash comparison, and evidence limits.
+
+### 验证记录
+
+[VALIDATION.md](VALIDATION.md) 汇总技能检查、回放范围、哈希核对和证据局限。
+
