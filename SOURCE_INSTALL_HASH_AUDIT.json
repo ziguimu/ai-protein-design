@@ -1,0 +1,23 @@
+{
+  "source_files": {
+    "SKILL.md": "4669795da5207d23044fd71e56b66070dd496a92eecd0accde49630c73d27c5f",
+    "agents\\openai.yaml": "c4faa7815a13b040edb83b807612de2f1f8b3752ddf51ef00de9094846fe3a0a",
+    "references\\evidence.md": "a7709d91c4cbdc54604a74e85c0d28f34bf9974da6094a2d24263a7c6e948963",
+    "references\\experience-updates.md": "e54eaaa43a61f310a83dcdd7c59008854e54399f338fc083a7f90225ee8ea7c5",
+    "references\\report-claim-audit.md": "3d065238f76f1d5cedf7573343bf3686fc9aa037d3e698d58764f0cf568170dd",
+    "references\\task-branches.md": "793625764a84254f02d2a6518ef9dea24807109f7ef3eb10c4fdfbe4626e161f",
+    "references\\workflow.md": "c8bb636abb504e9dfac8533a904bf59f5522256cc9cade1c20548d88050a296f",
+    "scripts\\audit_records.py": "729bce029aab5cddf3d24f8d9911655b097b5643a03bf569641e12efd0ea353b"
+  },
+  "installed_files": {
+    "SKILL.md": "4669795da5207d23044fd71e56b66070dd496a92eecd0accde49630c73d27c5f",
+    "agents\\openai.yaml": "c4faa7815a13b040edb83b807612de2f1f8b3752ddf51ef00de9094846fe3a0a",
+    "references\\evidence.md": "a7709d91c4cbdc54604a74e85c0d28f34bf9974da6094a2d24263a7c6e948963",
+    "references\\experience-updates.md": "e54eaaa43a61f310a83dcdd7c59008854e54399f338fc083a7f90225ee8ea7c5",
+    "references\\report-claim-audit.md": "3d065238f76f1d5cedf7573343bf3686fc9aa037d3e698d58764f0cf568170dd",
+    "references\\task-branches.md": "793625764a84254f02d2a6518ef9dea24807109f7ef3eb10c4fdfbe4626e161f",
+    "references\\workflow.md": "c8bb636abb504e9dfac8533a904bf59f5522256cc9cade1c20548d88050a296f",
+    "scripts\\audit_records.py": "729bce029aab5cddf3d24f8d9911655b097b5643a03bf569641e12efd0ea353b"
+  },
+  "identical": true
+}

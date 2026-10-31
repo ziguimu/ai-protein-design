@@ -1,0 +1,12 @@
+{
+  "candidate_id_column": "candidate_id",
+  "sample_id_column": "sample_id",
+  "required_metrics": [],
+  "required_columns": ["sequence_id", "scaffold_id", "scaffold_family", "seed", "model", "status"],
+  "criteria": [],
+  "reported_pass_count": null,
+  "gates": {},
+  "reported_gates": {},
+  "claim_requirements": {},
+  "reported_claims": []
+}

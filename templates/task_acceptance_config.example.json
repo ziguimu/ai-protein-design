@@ -1,0 +1,18 @@
+{
+  "task_id": "replace-with-task-id",
+  "candidate_id_column": "candidate_id",
+  "required_metrics": ["replace_with_task_required_metric"],
+  "required_columns": ["seed", "model_version", "template_id", "scaffold_family"],
+  "sample_id_column": "sample_id",
+  "criteria": [
+    {"metric": "replace_with_task_required_metric", "op": ">=", "value": "choose_and_justify_for_this_task"}
+  ],
+  "reported_pass_count": null,
+  "gates": {
+    "replace_with_gate_name": "set_by_user_for_this_task"
+  },
+  "reported_gates": {},
+  "claim_requirements": {},
+  "reported_claims": [],
+  "notes": "No scientific threshold is supplied by this template. Freeze and justify criteria before screening. Populate claim_requirements and reported_claims only after manually reviewing the full report; the auditor does not discover prose claims."
+}
